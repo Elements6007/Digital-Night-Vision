@@ -24,3 +24,8 @@ This is all powered by a simple 9v battery (ir torch pwr is AA)
 
 
 Pictures of building the night vision monocular:
+
+^wireing diagram
+
+![20211230_192737](https://user-images.githubusercontent.com/88860704/154826993-cd2bea1e-57a1-4f8a-bb8d-0f6d05f5a97b.jpg)
+^breadboard config for testing 
