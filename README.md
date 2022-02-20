@@ -20,6 +20,8 @@ Bi Convex lens: https://www.amazon.com/gp/product/B00EPQ9EVQ/ref=oh_aui_detailpa
 
 Infared Torch: https://www.amazon.com/MAKE-ONE-IR-Infrared-Flashlight/dp/B016ZPH470
 
+Green acrylic sheet(for green effect) https://www.ebay.com/itm/323428150170?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=323428150170&targetid=1262779891809&device=c&mktype=&googleloc=9015334&poi=&campaignid=14859008593&mkgroupid=130497710760&rlsatarget=pla-1262779891809&abcId=9300678&merchantid=101988463&gclid=Cj0KCQiAoNWOBhCwARIsAAiHnEit7RGGvpWTUU-Ul6mgzCwe9dbJbK94pMc1bjWlTdAf5dz6mOS95OkaAgs0EALw_wcB
+
 This is all powered by a simple 9v battery (ir torch pwr is AA)
 
 
