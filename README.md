@@ -32,3 +32,6 @@ Pictures of building the night vision monocular:
 ^wireing diagram
 ![20211230_192737](https://user-images.githubusercontent.com/88860704/154826993-cd2bea1e-57a1-4f8a-bb8d-0f6d05f5a97b.jpg)
 ^breadboard config for testing 
+
+![20220129_215206](https://user-images.githubusercontent.com/88860704/158042709-df2bc04e-e32b-4c79-8280-f0e88fed5af5.jpg)
+soldered protoboard layout
