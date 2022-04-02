@@ -35,3 +35,6 @@ Pictures of building the night vision monocular:
 
 ![20220129_215206](https://user-images.githubusercontent.com/88860704/158042709-df2bc04e-e32b-4c79-8280-f0e88fed5af5.jpg)
 soldered protoboard layout
+![20220105_222737](https://user-images.githubusercontent.com/88860704/161360849-16731ea2-43e5-4e14-abcb-91b24818c51f.jpg)
+above is the camera module. you must remove the IR filter which is located on the lens.
+
