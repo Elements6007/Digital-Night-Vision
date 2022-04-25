@@ -32,9 +32,14 @@ Pictures of building the night vision monocular:
 ^wireing diagram
 ![20211230_192737](https://user-images.githubusercontent.com/88860704/154826993-cd2bea1e-57a1-4f8a-bb8d-0f6d05f5a97b.jpg)
 ^breadboard config for testing 
+**NOTE: on the display 
 
 ![20220129_215206](https://user-images.githubusercontent.com/88860704/158042709-df2bc04e-e32b-4c79-8280-f0e88fed5af5.jpg)
 soldered protoboard layout
 ![20220105_222737](https://user-images.githubusercontent.com/88860704/161360849-16731ea2-43e5-4e14-abcb-91b24818c51f.jpg)
 above is the camera module. you must remove the IR filter which is located on the lens.
+![20220216_181538](https://user-images.githubusercontent.com/88860704/165013668-85671f84-c2ec-4734-b83a-38e81b47f053.jpg)
+then drill out the holes in the case. and mount the switch
 
+![20220218_230405](https://user-images.githubusercontent.com/88860704/165013724-137e62c2-d587-4021-bc00-c29a93d7e085.jpg)
+and then mount components inside case
