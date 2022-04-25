@@ -45,3 +45,11 @@ then drill out the holes in the case. and mount the switch
 
 ![20220218_230405](https://user-images.githubusercontent.com/88860704/165013724-137e62c2-d587-4021-bc00-c29a93d7e085.jpg)
 and then mount components inside case
+![20220224_190421](https://user-images.githubusercontent.com/88860704/165014739-422a5241-cd3f-4af5-952e-f93e65f30e9c.jpg)
+![20220224_190419](https://user-images.githubusercontent.com/88860704/165014755-90038420-80a9-4048-99f5-dac17e31f1d0.jpg)
+![20220224_190425](https://user-images.githubusercontent.com/88860704/165014742-ada490d2-b1dc-4fcf-b65e-17e9f302e12d.jpg)
+![20220224_190431](https://user-images.githubusercontent.com/88860704/165014747-08c744ce-d309-4a94-8f56-567ee1ad4874.jpg)
+![20220224_190507](https://user-images.githubusercontent.com/88860704/165014748-f26f65dd-136f-4267-b50a-201776150179.jpg)
+![20220224_190519](https://user-images.githubusercontent.com/88860704/165014751-05b2e3d9-6dab-4584-a064-9f1f9482fd50.jpg)
+other pictures
+
