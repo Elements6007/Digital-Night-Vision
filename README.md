@@ -32,7 +32,9 @@ Pictures of building the night vision monocular:
 ^wireing diagram
 ![20211230_192737](https://user-images.githubusercontent.com/88860704/154826993-cd2bea1e-57a1-4f8a-bb8d-0f6d05f5a97b.jpg)
 ^breadboard config for testing 
-**NOTE: on the display the video signal wires might be yellow and white or black and yellow. dispite yellow being the color for the video signal in, it is always going to be the wire farthest to the right(looking up). in my case yellow ended up being GND which caused many issues
+**NOTE: on the display the video signal wires might be yellow and white or black and yellow. dispite yellow being the color for the video signal in, it is always going to be the wire farthest to the right(looking up). in my case yellow ended up being GND which caused many issues**
+
+also consult the docs for the voltage regulator for specifics but left is always input, middle is GND, and right output.
 
 ![20220129_215206](https://user-images.githubusercontent.com/88860704/158042709-df2bc04e-e32b-4c79-8280-f0e88fed5af5.jpg)
 soldered protoboard layout
